@@ -1,0 +1,11 @@
+body{
+	font-family: 'Acme', sans-serif;
+	background:url(Ultra-Instinct-Dragon_Ball-goku.jpg);
+	background-attachment:fixed;
+}
+.parrafo{
+	column-count:3;
+	margin:2em auto;
+	width:60%;
+	background:rgba(255,255,255,0.5);
+	padding:1em;
